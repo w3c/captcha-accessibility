@@ -9,16 +9,6 @@ respecConfig.localBiblio = {
 		"href": "http://www.brains-n-brawn.com/default.aspx?vDir=aicaptcha"
 	},
 
-    "able-gamers": {
-        "title": "Thought On Accessibility and VR",
-        "date": "March, 2017",
-        "authors": ["AJ Ryan"],
-        "editors": [],
-        "etAl": false,
-        "publisher": "",
-        "href": "https://ablegamers.org/thoughts-on-accessibility-and-vr/"
-    },
-
 	"antiphishing": {
 		"title": "Phishing Activity Trends Report",
 		"date": "July, 2005",
@@ -59,15 +49,6 @@ respecConfig.localBiblio = {
 		"etAl": false,
 		"publisher": "",
 		"href": "http://www.puremango.co.uk/cm_breaking_captcha_115.php"
-	},
-	"chafee": {
-		"title": "17 USC 121, Limitations on exclusive rights: reproduction for blind or other people with disabilities (also known as the Chafee Amendment)",
-		"date": "",
-		"authors": [],
-		"editors": [],
-		"etAl": false,
-		"publisher": "",
-		"href": "https://www.copyright.gov/title17/92chap1.html"
 	},
     "captcha-ocr": {
 	"title": "CAPTCHA: Attacks and Weaknesses against OCR technology",
@@ -113,7 +94,7 @@ respecConfig.localBiblio = {
 		"publisher": "",
 		"href": "https://www.usenix.org/legacy/events/nsdi05/tech/kandula/kandula_html/"
     },
-    "marrakehs": {
+    "marrakesh": {
 	"title":
 	"Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled",
 	"authors": [],
@@ -122,7 +103,7 @@ respecConfig.localBiblio = {
 	"publisher": "World Intellectual Property Organization",
 	"date": "27 June 2013",
 	"href": "https://www.wipo.int/treaties/en/ip/marrakesh"
-    },
+	},
 	"newscom": {
 		"title": "Spam-bot tests flunk the blind",
 		"date": "2 July 2003",
@@ -247,12 +228,6 @@ respecConfig.localBiblio = {
         "publisher": "Concurrency and Computation: Practice and Experience, 28(4)",
         "pages": "1310-1323",
         "doi": "doi:10.1002/cpe.3632"
-    },
-    "iso-8859-1": {
-    	"title": "Information technology -- 8-bit single-byte coded graphic character sets -- Part 1: Latin alphabet No. 1",
-    	"href": "https://www.iso.org/standard/28245.html",
-    	"publisher": "International Organization for Standardization",
-    	"date": "1998"
     },
     "facecaptcha": {
         "authors": [
@@ -401,290 +376,12 @@ respecConfig.localBiblio = {
         "pages": "5141-5156",
         "doi": "doi:10.1007/s11042-013-1666-7"
     },
-    "marrakesh": {
-    	"date": "27 June 2013",
-    	"href": "https://www.wipo.int/treaties/en/ip/marrakesh",
-    	"publisher": "World Intellectual Property Organization",
-    	"title": "Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled"
-    },
-    "ietf-rtc": {
-            "date": "March 2015",
-            "href": "https://tools.ietf.org/html/rfc7478",
-            "publisher": "IETF",
-            "title": "Web Real-Time Communication Use Cases and Requirements"
-    },
-
-      "ietf-relay": {
-            "date": "August 2020",
-            "href": "https://tools.ietf.org/html/draft-ietf-rum-rue-02.html",
-            "publisher": "IETF",
-            "title": "Interoperability Profile for Relay User Equipment"
-    },
-    "webrtc-use-cases": {
-        "date": "11 December 2018",
-        "href": "https://www.w3.org/TR/webrtc-nv-use-cases/",
-        "publisher": "W3C",
-        "title": "WebRTC Next Version Use Cases"
-    },
-    "rtt-sip": {
-        "date": "June 2008",
-        "href": "https://tools.ietf.org/html/rfc5194",
-        "publisher": "IETF, Network Working Group",
-        "title": "Framework for Real-Time Text over IP Using the Session Initiation Protocol (SIP)"
-    },
     "EN301-549": {
         "date": "March 2021",
         "href": "https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf",
         "publisher": "CEN/CENELEC/ETSI",
         "title": "Accessibility requirements for ICT products and services"
     },
-    "webrtc-priority": {
-        "date": "12 February 2020",
-        "href": "https://w3c.github.io/webrtc-priority/",
-        "publisher": "W3C",
-        "title": "WebRTC DSCP Control API"
-
-    },
-
-      "personalization": {
-        "date": "27 January 2020",
-        "href": "https://www.w3.org/TR/personalization-semantics-content-1.0/",
-        "publisher": "W3C",
-        "title": "Personalization Semantics Content Module 1.0"
-
-    },
-        "media-queries": {
-        "date": "31 July 2020",
-        "href": "https://www.w3.org/TR/mediaqueries-5/",
-        "publisher": "W3C",
-        "title": "Media Queries Level 5"
-
-    },
-     "xaur": {
-        "date": "16 Sept 2020",
-        "href": "https://www.w3.org/TR/xaur/",
-        "publisher": "W3C",
-        "title": "XR Accessibility User Requirements"
-
-},
-
-    "web-adapt": {
-        "authors": [
-            "Matthew Tylee Atkinson",
-            "Ian Hamilton",
-            "Joe Humbert",
-            "Kit Wessendorf"
-        ],
-        "date": "Dec 2018",
-        "title": "W3C Workshop on Web Games Position Paper: Adaptive Accessibility",
-        "href": "https://www.w3.org/2018/12/games-workshop/papers/web-games-adaptive-accessibility.html",
-        "publisher": "W3C"
-    },
-     "inclusive-seattle": {
-        "authors": [
-            "W3C",
-            "Pluto VR"
-        ],
-        "date": "Nov 2019",
-        "title": "W3C Workshop on Inclusive XR Seattle",
-        "href": "https://www.w3.org/2019/08/inclusive-xr-workshop/",
-        "publisher": "W3C"
-    },
-        "game-a11y": {
-        "authors": [
-            "Barrie Ellis",
-            "Ian Hamilton",
-            "Gareth Ford-Williams",
-            "Lynsey Graham",
-            "Dimitris Grammenos",
-            "Ed Lee",
-            "Jake Manion",
-            "Thomas Westin"
-        ],
-        "date": "2019",
-        "title": "Game Accessibility Guidelines",
-        "href": "http://gameaccessibilityguidelines.com"
-        
-    },
-
-     "maidenbaum-amendi": {
-        "authors": [
-            "Maidenbaum, S.",
-            "Amedi, A"
-        ],
-        "date": "2015",
-        "title": "Non-visual virtual interaction: Can Sensory Substitution generically increase the accessibility of Graphical virtual reality to the blind?",
-        "publisher": "In Virtual and Augmented Assistive Technology (VAAT), 2015 3rd IEEE VR International Workshop on (pp. 15-17). IEEE"
-        
-    },
-
-         "mono-ios": {
-        "authors": [
-            "Apple"
-        ],
-        "date": "2020",
-        "title": "iPhone User Guide",
-        "href": "https://support.apple.com/en-gb/guide/iphone/iph3e2e2cdc/ios"
-        
-    },
-
-           "total-conversation": {
-        "authors": [
-            "International Telecommunication Union (ITU)"
-        ],
-        "date": "2020",
-        "title": "ITU-T SG 16 Work on Accessibility - Total Conversation",
-        "href": "https://www.itu.int/en/ITU-T/studygroups/com16/accessibility/Pages/conversation.aspx"
-        
-    },
-
-      "personalization-semantics": {
-        "authors": [
-            "Lisa Seeman",
-        "Charles LaPierre",
-        "Michael Cooper",
-        "Roy Ran",
-        "Richard Schwerdtfeger"
-         ],
-        "date": "2020",
-        "title": "Personalization Semantics Explainer 1.0",
-        "href": "https://www.w3.org/TR/personalization-semantics-1.0/",
-        "publisher": "W3C"
-    },
-
-       "personalization-content": {
-        "authors": [
-            "Lisa Seeman",
-        "Charles LaPierre",
-        "Michael Cooper",
-        "Roy Ran",
-        "Richard Schwerdtfeger"],
-        "date": "2020",
-        "title": "Personalization Semantics Content Module 1.0",
-        "href": "https://www.w3.org/TR/personalization-semantics-content-1.0/",
-        "publisher": "W3C"
-    },
-
-       "personalization-requirements": {
-        "authors": [
-            "Lisa Seeman",
-        "Charles LaPierre",
-        "Michael Cooper",
-        "Roy Ran"
-        ],
-        "date": "2020",
-        "title": "Requirements for Personalization Semantics",
-        "href": "https://www.w3.org/TR/personalization-semantics-requirements-1.0/",
-        "publisher": "W3C"
-    },
-
-       "supple-project": {
-        "authors": [
-            "Krzysztof Gajos et al"
-        ],
-        "date": "2010",
-        "title": "SUPPLE: Automatically Generating Personalized User Interfaces",
-        "href": "http://www.eecs.harvard.edu/~kgajos/research/supple/",
-        "publisher": "Harvard"
-    },
-
-      "spatialized-navigation": {
-        "authors": [
-            "Blum J.R.", 
-            "Bouchard M.", 
-            "Cooperstock J.R. "
-        ],
-        "date": "2012",
-        "title": "What’s around Me? Spatialized Audio Augmented Reality for Blind Users with a Smartphone",
-        "href": "https://link.springer.com/chapter/10.1007/978-3-642-30973-1_5",
-        "publisher": "Springer"
-    },
-         "applicability-atomic": {
-        "authors": [
-            "Wilco Fiers", 
-            "Maureen Kraft", 
-            "Mary Jo Mueller ",
-            "Shadi Abou-Zahra"
-
-        ],
-        "date": "2019",
-        "title": "Accessibility Conformance Testing (ACT) Rules Format 1.0 - W3C Recommendation, 31 October 2019",
-        "href": "https://www.w3.org/TR/act-rules-format/#applicability-atomic",
-        "publisher": "W3C"
-    },
-
-            "rule-types": {
-        "authors": [
-            "Wilco Fiers", 
-            "Maureen Kraft", 
-            "Mary Jo Mueller ",
-            "Shadi Abou-Zahra"
-
-        ],
-        "date": "2019",
-        "title": "Accessibility Conformance Testing (ACT) Rules Format 1.0 - W3C Recommendation, 31 October 2019",
-        "href": "https://www.w3.org/TR/act-rules-format/#rule-types",
-        "publisher": "W3C"
-    },
-
-     "uaag": {
-        "date": "15 December 2015",
-        "href": "https://www.w3.org/TR/UAAG20/",
-        "publisher": "W3C",
-        "title": "User Agent Accessibility Guidelines (UAAG) 2.0"
-
-},
-
-     "webrtc": {
-        "date": "26 January 2021",
-        "href": "https://www.w3.org/TR/webrtc/",
-        "publisher": "W3C",
-        "title": "WebRTC 1.0: Real-Time Communication Between Browsers"
-
-},
-
-    "raja-asl": {
-        "date": "27 May 2021",
-        "href": "https://arxiv.org/abs/2105.12928",
-        "publisher": "Cornell UNiversity",
-        "title": "Legibility of Videos with ASL signers"
-
-},
-
-    "wfd-wasli": {
-        "date": "14 March 2081",
-        "href": "https://wfdeaf.org/news/resources/wfd-wasli-statement-use-signing-avatars/",
-        "publisher": "World Federation of the Deaf",
-        "title": "WFD and WASLI"
-
-    },
-    "personal-assistant-architecture": {
-        "title": "Intelligent Personal Assistant Architecture and Potential for Standardization Version 1.2",
-        "editors": ["Dirk Schnelle-Walka", "Deborah Dahl"],
-        "publisher": "Voice Interaction Community Group",
-        "date": "19 July 2021",
-        "href": "https://w3c.github.io/voiceinteraction/voice%20interaction%20drafts/paArchitecture-1-2.htm"
-    },
-     "Bragg-et-al": {
-	"title": "Sign language recognition, generation, and translation: An interdisciplinary perspective",
-	"authors": ["Danielle Bragg", "Oscar Koller", "Mary Bellard", "Larwan Berke", "Patrick Boudreault", "Annelies Braffort", "Naomi Caselli", "Matt Huenerfauth", "Hernisa Kacorri", "Tessa Verhoef", "Christian Vogler", "Meredith Ringel Morris"],
-	"publisher": "The 21st International ACM SIGACCESS Conference on Computers and Accessibility",
-	"date": "October 2019"
-    },
-	"media-av": {
-		"title": "Making Audio and Video Media Accessible",
-		"publisher": "W3C web Accessibility Initiative (WAI)",
-		"editors": ["Shawn Lawton henry"],
-		"date": "January 2021",
-		"href": "https://www.w3.org/WAI/media/av/"
-	},
-	"accessible-presentations": {
-		"title": "How to Make Your Presentations Accessible to All",
-		"publisher": "W3C Web accessibility Initiative (WAI)",
-		"editors": ["Shawn Lawton Henry"],
-		"date": "February 2021",
-		"href": "https://www.w3.org/WAI/teach-advocate/accessible-presentations/"
-	},
        
 };
 

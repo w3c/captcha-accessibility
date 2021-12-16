@@ -93,6 +93,8 @@ var respecConfig = {
 	
 	// name of the WG
 	group:           "apa",
+	github: "w3c/captcha-accessibility",
+	wgPublicList: "public-apa",
 	maxTocLevel: 4,
 	
 };

@@ -360,7 +360,70 @@ be further mitigated with robust support for web accessibility, perhaps by expan
 		</section>
 		<section>
 			<h2>Conclusion</h2>
-			<p class="ednote">This section is to be rewritten in light of emerging technologies and recent developments. The Task Force is reviewing the current range of alternatives to CAPTCHA for the purpose of revising this document to offer up to date and informed advice that serves the needs of people with disabilities, while maintaining a high level of security for application and service providers. The conclusions formerly in this section have been removed to make way for the new material, which will be a complete rewrite of the conclusions.</p>
+<p>CAPTCHA development has certainly become more sophisticated over time. This has included the development of
+several alternatives to text-based characters contained in bitmapped
+images, some of which have served to support access for persons with
+disabilities. However, it has also become clear not only that
+traditional CAPTCHA continues to be challenging for people with
+disabilities, but also that it is increasingly insecure and arguably now ill suited
+to the purpose of distinguishing human individuals from their robotic
+impersonators.</p>
+
+<p>Yet the need for reliable and accessible solutions persists.  In fact the need has arguably become more urgent as the limits of authenticated login alone have become more and more evident in misuse of major services around the globe.</p>
+
+<p>It is therefore highly recommended that the purpose and effectiveness of any
+deployed CAPTCHA solution be carefully considered before adoption, and then
+closely monitored for effective performance. As with all good software and on
+line content provisioning, analysis should begin with a careful consideration
+of system requirements and a thorough understanding of user needs, including
+the needs of persons with disabilities.</p>
+
+<p>Clearly, some approaches such as Google's reCAPTCHA, 
+two-step or multi-device verification can be easily and affordably
+deployed. Yet problems persist even in these systems, especially for non
+English speakers.  Furthermore, deployers of such approaches should be aware that they are participating  in exposing
+their users to a massive collection of personal data across multiple
+trans-national data profiling systems, quite apart from any societal
+governance.</p>
+
+<p>It is important, therefore, also to consider available stand-alone approaches such
+as honeypots and heuristics, along with current image and aural CAPTCHA
+libraries that support multiple languages. As always, testing and system monitoring for
+effectiveness should supply the ultimate determination, even as we recognize
+that an effective system today may prove ineffective a few years from now.</p>
+
+<p>We summarize our conclusions in the following points:</p>
+<ol>
+
+<li>Risk analyses of attempts to access a resource are generally desirable.
+Some on line resources are simply greater targets than others. It is critical that analyses include an evidence based determination of how challenging a CAPTCHA needs to be. Users should not be forced beyond what is strictly necessary to keep a site secure, e.g.,/
+if a honeypot suffices, use a honeypot until evidence of robotic attacks dictates something else.</li>
+
+<li>Whenever an interactive 
+CAPTCHA is deemed important for security reasons,
+it is very beneficial to limit and minimize how often users are subjected to interactive CAPTCHA challenges. With CAPTCHA less interactivity is clearly more accessibility. As noted above, we're encouraged by the
+development of approaches such as <a href="#privpass">Privacy Pass</a> which, even though it still sometimes requires an interactive CAPTCHA challenge, it does so much less often.</li>
+
+<li>Whenever an interactive CAPTCHA is implemented, a variety of alternative challenges must be
+made available to engage different sensory and cognitive capabilities of the user in order that the user can choose an approach that best fits their abilities.
+We humans possess a variety of intellectual strengths and weaknesses. To fail
+to offer a variety of challenges is to ignore this simple truth.</li>
+
+<li>All else being equal, we prefer non-interactive approaches because these
+pose no accessibility challenges. However, they may expose the user to the
+collection of personal data.</li>
+
+<li>Third parties may be engaged to verify the authenticity of an access attempt.
+However, such solutions may give rise to privacy trade-offs.</li>
+
+</ol>
+
+<p>In other words, while some CAPTCHA approaches are better than others, and
+while more recent approaches offer clear advantage over older approaches, there
+is still no single, ideal solution. It is important to exercise care that any
+implemented CAPTCHA technology correctly allow people with disabilities to
+identify themselves as human.</p>
+
 		</section>
 		<section class="appendix">
 			<h2>Terms</h2>
